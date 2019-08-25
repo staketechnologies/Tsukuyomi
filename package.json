@@ -9,6 +9,7 @@
     "@webassemblyjs/ast": "^1.8.5",
     "@webassemblyjs/validations": "^1.2.3",
     "@webassemblyjs/wasm-parser": "^1.8.5",
+    "global": "^4.4.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-loading": "^2.0.3",
