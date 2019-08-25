@@ -1,0 +1,29 @@
+{
+  "name": "tsukuyomi",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^10.0.15",
+    "@material-ui/core": "^4.3.2",
+    "@material-ui/icons": "^4.2.1",
+    "@webassemblyjs/ast": "^1.8.5",
+    "@webassemblyjs/validations": "^1.2.3",
+    "@webassemblyjs/wasm-parser": "^1.8.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-loading": "^2.0.3",
+    "react-scripts": "0.9.x",
+    "react-spinners": "^0.5.12",
+    "webassemblyjs": "^1.8.5"
+  },
+  "devDependencies": {
+    "babel-plugin-emotion": "^10.0.15"
+  },
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "start": "serve -s build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
